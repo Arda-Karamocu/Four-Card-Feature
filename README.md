@@ -15,7 +15,7 @@ Each card has a unique accent color and icon. The middle column stacks two cards
 
 ## 📸 Screenshot
 
-![Preview](src/images/desktop-design.jpg) <!-- Bu kısmı bir ekran görüntüsüyle doldurabilirsin -->
+![Preview](src/desktop-design.jpg) <!-- Bu kısmı bir ekran görüntüsüyle doldurabilirsin -->
 
 ## 🧰 Built With
 
