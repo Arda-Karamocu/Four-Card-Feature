@@ -33,3 +33,6 @@ To run this project locally:
 ```bash
 git clone https://github.com/YourUsername/four-card-feature.git
 cd four-card-feature
+bun install
+bun run dev
+<
